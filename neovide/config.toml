@@ -1,0 +1,7 @@
+title-hidden = true
+frame = "full"
+maximized = false
+no-multigrid = false
+
+[window]
+title = "Neovim"
